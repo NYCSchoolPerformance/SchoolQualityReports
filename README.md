@@ -6,4 +6,4 @@ The resulting GitHub Page webpage is located here:
 http://nycschoolperformance.github.io/SchoolQualityReports/
 
 The CNAME aliased webpage is located here:
-http://dev.3osp1415926535.info/
+http://www.schoolqualityreports.nyc/
