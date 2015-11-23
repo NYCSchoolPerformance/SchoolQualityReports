@@ -1,14 +1,19 @@
 #wrapper{
-    margin:auto;   
-    width: 96%;
+    margin:auto;
+    margin-top:3%;
+    float:left;
+    margin-left:5%;
 }
 
 #DOElogo{
     margin-left:2%;
-    margin-right:10%;
     float:left;
-    height: 100%;
+}
+tableauPlaceholder{
+    margin:auto;
 }
 footer{
+    clear:both;
+    margin-top:5px;
     text-align:left;
 }
