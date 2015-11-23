@@ -1,0 +1,14 @@
+#wrapper{
+    margin:auto;   
+    width: 96%;
+}
+
+#DOElogo{
+    margin-left:2%;
+    margin-right:10%;
+    float:left;
+    height: 100%;
+}
+footer{
+    text-align:left;
+}
