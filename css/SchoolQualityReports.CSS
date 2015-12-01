@@ -1,0 +1,13 @@
+#wrapper{
+   width:1024px; 
+   margin:0 auto; 
+   padding-top:35px;
+}
+
+#DOElogo{
+    float:left;
+}
+.tableauPlaceholder{
+     width: 1024px;
+     height: 895px;
+}
